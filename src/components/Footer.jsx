@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 const Footer = () => {
   return (
-    <div className=" w-full h-80 lg:h-72  bg-gray-900 text-white">
+    <div className=" w-full h-80 lg:h-72   bg-gray-900 text-white">
       <div className="flex justify-between pt-10 px-5">
         <Link to="/" className="text-2xl">
           SKXYWTF
